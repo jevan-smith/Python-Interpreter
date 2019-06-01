@@ -3,7 +3,7 @@ Made by: Jevan
 
 ## Project Goals
 1. The goal of this project was to create a simple sudo-python interpreter, with the intent to
-learn how to creating an interpreter from the groundup.
+learn how to create an interpreter from the groundup.
 2. This included learning concepts such as lexical analysis/tokanization, building symbol tables, 
 and the understanding of formal grammar rules.
 

@@ -1,4 +1,4 @@
-// Name: Jevan Smith, and Nick
+// Name: Jevan Smith
 // Assignment: Project03
 // Date: April 29, 2019
 

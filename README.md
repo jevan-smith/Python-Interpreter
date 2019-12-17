@@ -1,6 +1,3 @@
-## Authors
-Made by: Jevan
-
 ## Project Goals
 1. The goal of this project was to create a simple sudo-python interpreter, with the intent to
 learn how to create an interpreter from the groundup.
